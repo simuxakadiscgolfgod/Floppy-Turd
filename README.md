@@ -5,6 +5,6 @@ Based on [this tutorial](https://www.youtube.com/watch?v=XtQMytORBmM)
 ## Usage
 This can be run on Windows operating machines.  
 Download whole repo, unzip and run the Floppy Turd.exe file.  
-Happy Flooping!  
+Happy Flopping!  
 
 
